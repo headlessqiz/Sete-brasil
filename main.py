@@ -2,7 +2,7 @@ import discord
 from discord.ext import tasks, commands
 import requests
 
-TOKEN = "MTI1MjI5OTgzMTcxMjY4MjA3Ng.GAw1GF.g-XN0q0NT2fmkgwHCZo1KOEzf267gTTD9b1zeA"  # Substitua pelo seu token real
+TOKEN = "MTMxMjk0MTEwMDQ0NDY4MDIxMw.GmzEpb.HWH0IWl7rpOyC8bwOSiINQq2glyTw4IfJW9Q_U"  # Substitua pelo seu token real
 CHANNEL_ID = 1312483978027995207  # ID do canal
 
 intents = discord.Intents.default()
